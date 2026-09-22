@@ -1,0 +1,8 @@
+Identifiability summary (30 independent GWO fits)
+Best SSE (log-scale sum of squared error): 119.41601
+Runs within 1% of best SSE: 8 / 20
+beta range among good fits: [0.1918, 0.1924]
+rho range among good fits: [0.0603, 0.0783]
+E0 range among good fits: [2397.3, 3000.0]
+
+Best overall fit: beta=0.1923, rho=0.0607, E0=3000.0, R0=1.346, SSE=119.41601

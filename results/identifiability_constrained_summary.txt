@@ -1,0 +1,4 @@
+Constrained-model identifiability summary (rho fixed at 0.05)
+beta: mean=0.1921, std=0.000109, range=[0.1918, 0.1923]
+E0: mean=3757.0, std=13.6, range=[3730.0, 3781.7]
+Best fit: beta=0.1921, E0=3752.0, R0=1.345, SSE=118.26012

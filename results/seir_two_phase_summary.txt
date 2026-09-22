@@ -1,0 +1,9 @@
+Two-phase SEIR model, best fit (rho fixed at 0.05)
+beta1 (phase 1 transmission rate): 0.3446
+beta2 (phase 2 transmission rate): 0.1554
+change day: 49.8
+E0: 614.5
+R0 phase 1: 2.412
+R0 phase 2: 1.088
+SSE (log scale): 11.47471
+R-squared (original scale): 0.93392
