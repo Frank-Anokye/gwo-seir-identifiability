@@ -9,7 +9,7 @@ Exposed, Infectious, Recovered (SEIR) disease model to real, publicly reported C
 process many times from different random starting points and
 comparing the results, instead of reporting a single fitted curve. The problem is then resolved using outside evidence from Ghanaian seroprevalence studies and international under-reporting estimates, after which the transmission rate becomes tightly and consistently identified. Because a single, constant transmission rate cannot reproduce an outbreak curve that flattens out long before a large share of the population is infected, the model is extended to allow one estimated change in the transmission rate over time. This improves the fit to an R^2 of 0.934 and finds that the effective reproduction number dropped from about 2.4 to about 1.1 around day 50 of the outbreak, a time that is consistent with Ghana's documented lockdown and mask-mandate timeline.
 
-The full write-up is in [`paper/preprint.pdf`](paper/preprint.pdf)
+The full write-up is in [`preprint/preprint.pdf`](preprint/preprint.pdf)
 (compile it yourself, or see the compiled PDF in the same folder).
 
 ## Repository structure
